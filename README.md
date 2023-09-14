@@ -8,10 +8,10 @@ There isn't enough information about this project
 I asked my friend about how he did this project and its structure
 
 ## Installation
-There is nothing to install. It is a mini edition of the tar project
+Just to let you know, there is nothing to install. It is a mini edition of the tar project
 
 ## Usage
-If you know how to use tar in Linux you can use it easily. But it has only cf, tf, rd, uf and xf options.
+If you know how to use tar in Linux you can use it easily. But it has only cf, tf, rd, uf, and xf options.
 ```
 make
 ```
