@@ -17,7 +17,7 @@ make
 ```
 After making, enter:
 ```
-./my_project argument1 argument2
+./my_tar -[args]
 ```
 
 ### The Core Team
